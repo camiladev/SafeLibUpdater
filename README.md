@@ -34,9 +34,12 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull re
 
 ### Diretrizes para Pull Requests
 
+- As PRs devem ter como destino a branch develop.
+- A branch develop é a branch que deve ser utilizada como base para novas branchs.
 - As pull requests (PRs) devem estar vinculadas às issues de origem.
 - Cada PR deve conter uma descrição clara do que foi realizado.
 - Novas issues são aceitas, mas precisam ser aprovadas antes de serem liberadas para desenvolvimento.
+- As issues aprovadas estão com a tag liberado.
 - A PR só será mergeada após minha aprovação.
 
 ### Commits
